@@ -16,15 +16,15 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Detailed Conceptual Site Modeling
 
   Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
 
-- ⚡ Fast by default
+- ⚡ Expedited Building Timelines
 
   Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
 
-- 📈 SEO-ready
+- 📈 Precise Environmental Monitoring
 
   Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
 

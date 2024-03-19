@@ -1,6 +1,6 @@
 ---
 title: "What Is TreeGuard AI?"
-description: ""
+description: "Hypothetical entrepreneurial firm that I developed for a entrepreneurship class that I am currently taking based off of a novel technology."
 date: 2024-03-15
 draft: false
 images: ["treeguard_logo_transparent.png", "wharton_logo.png"]
@@ -9,11 +9,10 @@ tags: ["treeguard"]
 keywords: ["TreeGuard"]
 authors: ["Caroline Begg"]
 ---
+## What Is TreeGuard AI?
 
 ![TreeGuard Logo](treeguard_logo_transparent.png)
 ![Wharton Logo](wharton_logo.png)
-
-## What Is TreeGuard AI?
 
 This semester, I am taking the class MGMT 2760 *(Entrepreneurship and Technological Innovation)*, which is Wharton Management class that is part of the Entrepreneurship and Innovation concentration and the Engineering Entrepreneurship minor. As part of the final project for this class, we had to choose a novel technology on which to build an entrepreneurial firm and describe the value that the firm would bring to what customers and users.
 

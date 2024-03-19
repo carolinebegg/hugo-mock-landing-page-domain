@@ -6,6 +6,26 @@ menu:
     weight: 90
 ---
 
-# Contact
+## Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+*Please feel free to reach out with any questions, comments, or concerns.*
+
+**Name**: Caroline Begg
+
+**University**: University of Pennsylvania
+
+**School**: Wharton/SEAS (M&T)
+
+**Year**: Sophomore
+
+**Major**: Computer Science, Finance/Business Analytics
+
+**School Email**: <cbegg@wharton.upenn.edu>, <cbegg@seas.upenn.edu>
+
+**Personal Email**: <carolinembegg@gmail.com>
+
+**Phone Number**: (203) 400-0930
+
+**GitHub Username**: carolinebegg
+
+[Open an issue](https://github.com/carolinebegg/hugo-mock-landing-page/issues/new) on GitHub.

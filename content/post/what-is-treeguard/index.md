@@ -13,6 +13,4 @@ authors: ["Caroline Begg"]
 ![TreeGuard Logo](treeguard_logo_transparent.png)
 ![Wharton Logo](wharton_logo.png)
 
-{ .img-fluid .mb-5 }
-
-What is TreeGuard?
+What is TreeGuard? hello

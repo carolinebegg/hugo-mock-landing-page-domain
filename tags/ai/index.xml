@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on TreeGuard AI</title>
+    <link>https://carolinebegg.github.io/hugo-mock-landing-page/tags/ai/</link>
+    <description>Recent content in AI on TreeGuard AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Caroline Begg</copyright>
+    <lastBuildDate>Tue, 19 Mar 2024 11:31:43 -0400</lastBuildDate>
+    <atom:link href="https://carolinebegg.github.io/hugo-mock-landing-page/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TreeGuard AI&#39;s Value Proposition</title>
+      <link>https://carolinebegg.github.io/hugo-mock-landing-page/post/value-proposition/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://carolinebegg.github.io/hugo-mock-landing-page/post/value-proposition/</guid>
+      <description>TreeGuard AI&amp;rsquo;s Value Proposition Leveraging deep learning techniques and thousands of ecological data sets to create precise mappings of the terrain.&#xA;AI-Powered, Eco-Inspired.&#xA;Existing Problems Within Construction Surveying Challenge Terrain with Complex Landforms Crafting a Detail Conceptual Site Model Long Wait Times To Obtain A Building Permit TreeGuard&amp;rsquo;s cutting-edge tech uses satellite imagery and artificial intelligence to streamline land surveys, offering detailed mappings and 3D models, which expedites the permitting, planning, and building processes.</description>
+    </item>
+  </channel>
+</rss>

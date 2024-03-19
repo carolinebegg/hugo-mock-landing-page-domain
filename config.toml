@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "TreeGuard AI"
 author = "Caroline Begg"
-copyright = "AI-Powered, Eco-Inspired."
+baseURL = 'https://carolinebegg.github.io/hugo-mock-landing-page/'
+copyright = "Caroline Begg"
+title = "TreeGuard AI"
 
 timeZone = 'Europe/London'
 

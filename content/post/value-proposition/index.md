@@ -15,18 +15,27 @@ aliases:
 
 > *Leveraging deep learning techniques and thousands of ecological data sets to create precise mappings of the terrain.*
 
+![Forest Satellite](forest_satellite.png) ![Nature Construction Planning](green_home.png)
+![Conservation](conservation.png) ![Construction Office](construction.png)
+
 AI-Powered, Eco-Inspired.
 
-### Advanced Satellite Imagery and AI Integration
+### Existing Problems Within Construction
 
-  TreeGuard utilizes cutting-edge satellite imagery combined with artificial intelligence to streamline land surveys, offering detailed mappings and 3D models.
+1. Surveying Challenge Terrain with Complex Landforms
+2. Crafting a Detail Conceptual Site Model
+3. Long Wait Times To Obtain A Building Permit
 
-### Highly Accurate Land Assessment
+  *TreeGuard's cutting-edge tech uses satellite imagery and artificial intelligence to streamline land surveys, offering detailed mappings and 3D models, which expedites the permitting, planning, and building processes.*
 
-  The technology delivers a high degree of accuracy in land assessment, crucial for construction planning and environmental monitoring, reducing the risk of costly errors and rework.
+### Market Opportunities
 
-### Environmental Conservation and Monitoring
+1. Commercial Construction Industry
+2. Residential Construction Industry
+3. Environmental Monitoring
+4. Carbon Credit Trade Market
+5. Commercial Farming
 
-  Precise mapping and analysis capabilities enables environmental non-profits and government agencies to track changes in land use, monitor environmental impacts, and advocate for sustainable practices more effectively.
+*Outside of the commercial and residential construction industries, there are also major potential impacts in areas such as environmental monitoring and regulation, the carbon credit trade market, and commercial farming.*
 
-Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.
+Check the [GitHub repository](https://github.com/carolinebegg/hugo-mock-landing-page) for the release notes.

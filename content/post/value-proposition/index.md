@@ -38,4 +38,4 @@ AI-Powered, Eco-Inspired.
 
 *Outside of the commercial and residential construction industries, there are also major potential impacts in areas such as environmental monitoring and regulation, the carbon credit trade market, and commercial farming.*
 
-Check the [GitHub repository](https://github.com/carolinebegg/hugo-mock-landing-page) for the release notes.
+Check the [GitHub repository](https://github.com/carolinebegg/hugo-mock-landing-page-domain-name) for the release notes.

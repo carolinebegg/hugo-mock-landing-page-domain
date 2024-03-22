@@ -1,12 +1,12 @@
-# hugo-mock-landing-page-autodeployed
+# hugo-mock-landing-page-domain-name
 
 ## CIS 3500 Homework #2
 
-### PART II: Automating the Deployment of a Hugo Website (hugo-mock-landing-page-autodeployed)
+### PART III: Automating the Deployment of a Hugo Website (hugo-mock-landing-page-domain-name)
 
 Summary of PART II Tasks + Additional Practice
 
-1. Import hugo-mock-landing-page repository
+1. Import hugo-mock-landing-page-autodeployed repository
 2. Adjust baseURL in config.toml file
 3. Configure repository settings for privacy and where to publish to
 4. Add a GitHub Actions workflow to automate the deployment of the landing page

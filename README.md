@@ -14,4 +14,6 @@ Summary of PART II Tasks + Additional Practice
 6. Verified the website's deployment
 7. Verified the website's deployement after properly updating a change
 
-In addition to creating and customizing the landing page framework, I wanted to expand more fully upon the site and to get more practice with Hugo; thus, I decided to customize three of the featured posts on the website. I think that this definitely added to the overall completeness and quality of my landing page, as well as helped me to gain some more practical experience in building a webpost with Hugo.
+Here is a concise blurb based on Claude's line-by-line explanation of the workflow code:
+
+*This GitHub Actions workflow automates the process of building and deploying a Hugo-based website to GitHub Pages. When code is pushed to the main branch, the workflow checks out the repository, installs the specified version of Hugo, builds the static site files (including drafts) with minification, and publishes the generated files to the gh-pages branch. The gh-pages branch is then used by GitHub Pages to host the website, making it accessible at a URL like https://<username>.github.io/<repository-name>. The workflow utilizes Git submodules to include external dependencies and separates the source code from the deployed static files for a clean and organized repository structure.*

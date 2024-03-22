@@ -28,4 +28,4 @@ menu:
 
 **GitHub Username**: carolinebegg
 
-[Open an issue](https://github.com/carolinebegg/hugo-mock-landing-page/issues/new) on GitHub.
+[Open an issue](https://github.com/carolinebegg/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.

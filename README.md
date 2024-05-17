@@ -2,9 +2,7 @@
 
 ## CIS 3500 Homework #2
 
-### PART III: Automating the Deployment of a Hugo Website 
-
-(hugo-mock-landing-page-domain-name)
+### PART III: Automating the Deployment of a Hugo Website (hugo-mock-landing-page-domain-name)
 
 Summary of PART II Tasks + Additional Practice
 
